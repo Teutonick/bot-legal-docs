@@ -1,7 +1,6 @@
 # Privacy Policy and Terms of Use for Telegram Bots
 
-# MAIN Version only 
-https://teutonick.github.io/bot-legal-docs/privacy
+**MAIN Version** https://teutonick.github.io/bot-legal-docs/privacy
 
 **Last updated:** May 2026
 
