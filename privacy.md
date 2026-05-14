@@ -1,6 +1,6 @@
 # Политика конфиденциальности и условия использования Telegram-ботов
 
-# ENGLISH -> https://teutonick.github.io/bot-legal-docs/privacy_en
+# ENGLISH -> [https://teutonick.github.io/bot-legal-docs/privacy_en](https://teutonick.github.io/bot-legal-docs/privacy_en)
 
 **Последнее обновление:** май 2026 г.
 
