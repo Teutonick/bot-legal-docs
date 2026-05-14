@@ -1,5 +1,8 @@
 # Privacy Policy and Terms of Use for Telegram Bots
 
+# MAIN Version only 
+https://teutonick.github.io/bot-legal-docs/privacy
+
 **Last updated:** May 2026
 
 This Privacy Policy and Terms of Use (hereinafter referred to as the **“Policy”**) governs the use of the Telegram bots [Filexa](https://t.me/WorkOnBigFilesBot), [Skylexa](https://t.me/SkylexaBot), [Vault by Wallexa](https://t.me/wallexa_bot), and [Vilexa](https://t.me/vilexa_bot) (collectively, the **“Bots”**, and individually, a **“Bot”**). A link to this Policy is provided in the interface of the relevant Bot.
