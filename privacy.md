@@ -1,5 +1,7 @@
 # Политика конфиденциальности и условия использования Telegram-ботов
 
+# ENGLISH GO TO https://teutonick.github.io/bot-legal-docs/privacy_en
+
 **Последнее обновление:** май 2026 г.
 
 Настоящая Политика конфиденциальности и условия использования (далее — **«Политика»**) регулирует порядок использования Telegram-ботов [Filexa](https://t.me/WorkOnBigFilesBot), [Skylexa](https://t.me/SkylexaBot), [Vault by Wallexa](https://t.me/wallexa_bot), [Vilexa](https://t.me/vilexa_bot) (далее совместно — **«Боты»**, по отдельности — **«Бот»**). В интерфейсе соответствующего бота указана ссылка на настоящую Политику.
